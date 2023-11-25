@@ -1,4 +1,4 @@
-# frontend-retro-page (Flexbox)
+# frontend-flexbox-experiment
 
 ## Table des matières 🗒️
 
