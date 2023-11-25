@@ -38,3 +38,5 @@ c . Explorez et appréciez!
 ## Contribuer 🤝
 
 N'hesitez pas à contribuer à ce modeste projet, signaler des bugs, proposer des fonctionnalités, des modifications, dans l'attente de vos **requests**!
+
+> **© Les images utilisées pour le projet sont la propriété de leur auteurs respectifs**
