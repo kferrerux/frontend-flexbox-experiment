@@ -1,14 +1,17 @@
 # frontend-retro-page
 
 ## Table des matières 🗒️
+
 - [Aperçu](#aperçu)
 - [Caractéristiques](#caractéristiques)
 - [Technologies utilisées](#technologies-utilisées)
+- [Comment utiliser](#comment-utiliser)
 - [Contribuer](#contribuer)
 
 ## Aperçu 👀
 
 ![002](https://github.com/kferrerux/frontend-retro-page/assets/77007630/bdd8dd62-19e2-4e60-8c84-cbc81f416df5)
+*<p align=center>Aperçu de la page pre-push</p>*
 
 ## Caractéristiques 🕵️
 
