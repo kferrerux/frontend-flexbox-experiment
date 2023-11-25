@@ -1,0 +1,167 @@
+/* css par ferrer_kevin 2024 */
+
+@import url('https://fonts.googleapis.com/css2?family=Tourney:wght@100;300&family=VT323&display=swap');
+
+* {
+    font-family: 'VT323', 'Trebuchet MS', 'Lucida Sans Unicode';
+    margin: auto;
+}
+
+html {
+    background-image: url("assets/imgs/background.png");
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+body {
+   width: 50vw;
+}
+
+#container {
+    margin-top: 15%;
+    width: 50vw;
+}
+
+header {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+#logo {
+    margin: 0;
+    width: 210px;
+    height: 210px;
+}
+
+nav {
+    transition: all 0.5s;
+    transform: scale(1.2) rotate(-15deg);
+    box-shadow: #00008117 0px 0px 10px;   
+    background-color: rgb(255, 0, 51);
+    font-size: 3.1rem;
+    width: 40%;
+    text-align: justify;
+    border-radius: 100%;
+}
+
+nav ul {
+    transition: all 0.5s;
+    list-style-type: none;
+}
+
+nav ul:hover {
+    transform: scale(1.2) rotate(0deg);
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    transition: all 0.5s;
+    text-decoration: none;
+    color: #ffff00;
+}
+
+nav a:hover {
+    background-color: #010081;
+    color: #ffff00;
+    border-radius: 100%;
+}
+
+section {
+    padding: 3%;
+}
+
+section h1 {
+    color: #ffff00;
+    font-size: 3rem;
+    font-family: 'VT323';
+    font-weight: 400;
+    text-align: justify;
+}
+
+section p {
+    color: #ffffff;
+    text-align: justify;
+}
+
+#intro {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#prez {
+    font-size: 1.2rem;
+    text-align: justify;
+    width: 50%;
+}
+
+#hobbies {
+    text-align: center;
+    width: 50%;
+}
+
+figure { 
+    display: inline-block;
+}
+
+figure img {
+    transition: all 0.3s;
+    border: solid 3px #ffff00;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+
+figure img:hover {
+    transform: scale(2) rotate(360deg);
+    border: solid 3px #00008100;
+}
+
+figcaption {
+    font-size: 1rem;
+    color: #ffffff;
+}
+
+#cv {
+    width: 85%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#cv h2 {
+    margin-bottom: 2%;
+    color: #ffff00;
+    font-size: 2rem;
+    font-family: 'VT323';
+    font-weight: 400;
+    text-align: justify;
+}
+
+#cv p {
+    color: #ffffff;
+    text-align: justify;
+}
+
+input {
+    transform: scale(1.2) rotate(15deg);
+    transition: all 0.5s;
+    background-color: rgb(255, 0, 51);
+    color: #ffff00;
+    font-size: 2.5rem;
+    width: 250px;
+    border: none;
+}
+
+input:hover {
+    transform: scale(1.2) rotate(0deg);
+    background-color: #010081;
+    color: #ffff00;
+    border-radius: 0%
+}
