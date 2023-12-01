@@ -26,12 +26,11 @@ s'y gréffer au fur et à mesure de mes acquis en formation.
 - HTML
 - CSS
 
-
 ## Comment utiliser ⏯️
 
 a . Clonez ce référentiel
     ```bash
-    git clone https://github.com/votre-nom/votre-projet.git
+    git clone https://github.com/kferrerux/frontend-flexbox-experiment.git
     ```
 
 b . Ouvrez le fichier `index.html` dans votre navigateur
